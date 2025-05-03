@@ -1,5 +1,6 @@
 # Training-Neural-networks-with-Keras
 
+## [Video Walk Through](https://youtu.be/Y6UDJVR8KaU)
 
 **Part 1: Data Augmentation and Generalization Techniques**
 - **1-a:** [L1 and L2 Regularization](https://colab.research.google.com/drive/1tcw4xU71uj2PNTIGbfuA6XtolX4jlwek?usp=sharing)
